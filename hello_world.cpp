@@ -6,3 +6,4 @@ int main(int argc, char** argv){
   std::cin >> name;                                      // Input name of @user
   std::cout << "Hello world from " << name << std::endl; // Output name of @user
 } 
+
